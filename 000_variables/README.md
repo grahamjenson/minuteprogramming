@@ -5,7 +5,7 @@ To create and name a variable you "declare" it,
 then you can "assign" a value to the variable. 
 The reason why we call them variables is because their value can be changed, which is opposed to a "constant" whose value cannot be changed.
 
-Programming Variables are a bit different to those from maths, e.g. in maths if X=X+Y then Y = 0 , but in programming this assigns X its value plus Y.
+Programming Variables are a bit different to those from maths, e.g. in maths if you say X=X + Y then the only solution is that Y = 0, but in programming this assigns X its value plus Y.
 
 Programming Variables are a bit more like physics, where you take stuff in from the environment and then process it to find out something new.
 

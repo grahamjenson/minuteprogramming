@@ -1,3 +1,7 @@
+Each page is 30 lines long
+
+The font size is 20
+
  o
 /|\
 / \
