@@ -2,6 +2,8 @@ Each page is 30 lines long
 
 The font size is 20
 
+`mp3splt -s -p th=-100,min=0.25,rm <file mp3>` to split seems to work pretty well
+
  o
 /|\
 / \

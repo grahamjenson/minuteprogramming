@@ -5,16 +5,12 @@ To create and name a variable you "declare" it,
 then you can "assign" a value to the variable. 
 The reason why we call them variables is because their value can be changed, which is opposed to a "constant" whose value cannot be changed.
 
+# Conventions
 
-Programming Variables are a bit different to those from maths, e.g. in maths if X=X+Y then Y = 0 , but in programming this will assign a new value to X of its old value plus Ys value.
+What you name a variable doesn't really matter (mostly), 
+but it is a good idea to be consistent and name your variables something meaningful, 
+otherwise your code will quickly become an unreadable mess.
 
-This makes Programming Variables are a bit more like physics, where the values of variables change with respect to time. 
-
-And like physics, by starting with only a few variables and simple definitions, 
-you can quickly build up to and solve complex problems.
-
-That is what programming is all about,
-using simple tools to do complicated things.
 
 # Languages
 
@@ -26,15 +22,22 @@ The type of the value, like numbers, strings, or booleans, may be important as w
 Dynamically typed Languages let a variables be assigned any type, 
 where statically typed languages let a variable be assigned only one type.
 
-# Conventions
 
-What you name a variable doesn't really matter (mostly), 
-but it is a good idea to be consistent and name your variables something meaningful, 
-otherwise your code will quickly become an unreadable mess.
+# Not Maths  more Physics
+Programming Variables are a bit different to those from maths, e.g. in maths if X=X+Y then Y = 0 , but in programming this will assign a new value to X of its old value plus Ys value.
+
+This makes Programming Variables are a bit more like physics, where the values of variables change with respect to time. 
+
+And like physics, by starting with only a few variables and simple definitions, 
+you can quickly build up to and solve complex problems.
+
+That is what programming is all about,
+using simple tools to do complicated things.
+
 
 Youtube Video: 
 
-Sources
+More Sources:
 
 https://en.wikipedia.org/wiki/Variable_(computer_science)
 http://rosettacode.org/wiki/Variables
@@ -50,7 +53,6 @@ Beautiful Code http://amzn.to/1MrMHlD
 Eloquent JavaScript http://amzn.to/1ImEA7r
 
 
-Music
-https://en.wikipedia.org/wiki/0music
+Music: https://en.wikipedia.org/wiki/0music
 
 
